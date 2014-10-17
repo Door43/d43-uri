@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uri:home|Door43 (uri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uri|d43-uri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uri/archive/master.zip|d43-uri.zip]]
+
+**Recent Changes**
+{{changes>ns = uri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uri|Ethnologue data]]
+
